@@ -1,7 +1,7 @@
-📚 Online Library Web App
-Online Library is a full-featured web application for book enthusiasts. It allows users to create an account, log in, and manage their personal book collections. The project also includes user reviews, a blog section, and integration with an external book API.
+# 📚 Online Library Web App
+## Online Library is a full-featured web application for book enthusiasts. It allows users to create an account, log in, and manage their personal book collections. The project also includes user reviews, a blog section, and integration with an external book API.
 
-🚀 Features
+### 🚀 Features
 🔐 User authentication and registration (Spring Security + JWT)
 
 📚 Book lists: Read, To-Read, and Favorites
@@ -14,7 +14,7 @@ Online Library is a full-featured web application for book enthusiasts. It allow
 
 🎨 Frontend built with React, using Axios and React Router
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 Backend:
 
 Java 17
