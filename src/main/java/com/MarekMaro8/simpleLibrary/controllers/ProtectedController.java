@@ -1,4 +1,4 @@
-package com.MarekMaro8.simpleLibrary.Controllers;
+package com.MarekMaro8.simpleLibrary.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

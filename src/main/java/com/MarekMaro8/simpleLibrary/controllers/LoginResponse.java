@@ -1,4 +1,4 @@
-package com.MarekMaro8.simpleLibrary.Controllers;
+package com.MarekMaro8.simpleLibrary.controllers;
 
 public class LoginResponse{
         private String token;
